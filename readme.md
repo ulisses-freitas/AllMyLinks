@@ -19,4 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O AllMyLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://ulisses-freitas.github.io/DevLinks/)
+- [Acesse o projeto finalizado, online](https://ulisses-freitas.github.io/AllMyLinks/)
